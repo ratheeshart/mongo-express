@@ -1,0 +1,8 @@
+title: mongo-express
+description: Web-based MongoDB admin interface, written with Node.js and express
+google_analytics: UA-596992-21
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
